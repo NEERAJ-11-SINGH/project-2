@@ -1,0 +1,217 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,100..1000;1,9..40,100..1000&display=swap');
+
+.my-nav {
+    background:#043873;
+    
+}
+.my-anchor {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+}
+.my-container {
+    display: flex;
+    margin: 20px;
+   margin-left: 20px;
+}
+.my-list {
+    gap: 20px;
+    
+}
+.my-text{
+    color: white;
+    font-family: "DM Sans", sans-serif;
+}
+.my-button{
+    width: 150px;
+    height: 50px;
+    background: #FFE492;
+    color: black;
+    border-radius: 10px;
+    border: 1px solid #FFE492;
+    font-family: "Inter", sans-serif;
+}
+.my-button1{
+    width: 200px;
+    height: 50px;
+    background: #4F9CF9;
+    color: white;
+    border-radius: 10px;
+    border: 1px solid #4F9CF9 ;
+    font-family: "Inter", sans-serif;
+}
+.my-container1{
+    margin-top: -5px;
+    background:#043873 ;
+    display: flex;
+    padding: 50px;
+    gap: 10px;
+}
+.left-container{
+    width: 50%;
+    margin-left: 30px;
+    margin-top: 150px;
+}
+.my-h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-weight: 87px;
+    font-size: 50px;
+    margin-left: 130px;
+    font-family: "Inter", sans-serif;
+}
+.my-p {
+    display: flex;
+    justify-content: center;
+    color: white;
+    margin: 0px 137px;
+    font-family: "Inter", sans-serif;
+}
+.box{
+    margin: 10px 135px;
+
+}
+.my-image2{
+    border: 1px solid black;
+    border-radius: 10px;
+    background:#C4DEFD;
+}
+.right-container{
+    margin: 20px 80px;
+    margin-top: 100px;
+}
+.box:hover{
+    background-color: rgba(7, 87, 7, 0.925);
+    
+}
+.my-container2{
+    display: flex;
+    background: white;
+    margin-top: 50px;
+    padding: 50px;
+}
+.one{
+    color: black;
+    font-size: 70px;
+}
+.p-one{
+    color: black;
+}
+.my-image3{
+    margin-left: 50px;
+    
+}
+.my-container3{
+    display: flex;
+    margin-top: 50px;
+    
+}
+.two{
+    color: black;
+    font-size: 70px;
+    margin-left: 40px;
+}
+.my-container4{
+    display: flex;
+    background:#043873;
+    margin-top: 100px;
+}
+.left4{
+    margin-top: 150px;
+    width: 50%;
+    margin-left:80px ;
+}
+.three{
+    margin-left: 10px;
+    font-size: 60px;
+}
+.right4{
+    margin-top: 100px;
+    margin-right: 100px;
+}
+.p4{
+margin-left: 100px;
+}
+.box4{
+    margin-left: 100px;
+}
+.p-5{
+    color: black;
+    font-size: 20px;
+}
+.my-container5{
+    display: flex;
+
+    margin-top: 50px;
+}
+.my-container6{
+    margin-top: 40px;
+    padding: 40px; 
+    
+}
+.my-heading6{
+    display: flex;
+    justify-content: center;
+    font-size: 72px;
+    font-weight: 700px;
+    font-style: bold;
+     font-family: "Inter", sans-serif;
+     height: 87px;
+     width: 1481px;
+
+}
+.my-p6{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+     font-family: "Inter", sans-serif;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 30px;
+}
+.my-card-container{
+    display: flex;
+    justify-content: center;
+}
+.my-card{
+    margin: 20px;
+    transition: 0.3s ease ;
+    border-color: red;
+}
+.card-dollar{
+font-weight: 700px;
+font-size: 36px;
+font-family: "Inter", sans-serif;
+font-style: bold;
+color: #212529;
+  margin-top: 23px;
+}
+.card-text{
+    font-family: "Inter", sans-serif;
+    font-weight: 400px;
+    font-size: 16px;
+    line-height: 20px;
+    letter-spacing: -2%;
+    margin-top: 23px;
+}
+.my-card1 {
+    margin: 12px;
+}
+.my-card:hover{
+    transform: scale(1.05);
+    
+    background: #043873;
+    color: white;
+    border-color:#043873 ;
+    .card-dollar{
+        color: #FFE492;
+    }      
+}
+
+
+
+
